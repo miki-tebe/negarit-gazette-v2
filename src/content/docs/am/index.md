@@ -15,10 +15,10 @@ description: የፌዴራል ነጋሪት ጋዜጣ የኢትዮጵያ የመን
 ## መጫን
 
 ```
-ማከማቻውን ክሎን ያድርጉ
-cd negarit-gazette
-yarn install ወይም npm install
-yarn run dev ወይም npm run dev
+git clone https://github.com/miki-tebe/negarit-gazette-v2
+cd negarit-gazette-v2
+npm install
+npm run dev
 ```
 
 ## አስተዋጽኦ

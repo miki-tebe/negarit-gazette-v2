@@ -15,10 +15,10 @@ Built using **[Astro Starlight](https://starlight.astro.build/)**
 ## Installing
 
     ```
-    Clone the repository
-    cd negarit-gazette
-    yarn install or npm install
-    yarn run dev or npm run dev
+    git clone https://github.com/miki-tebe/negarit-gazette-v2
+    cd negarit-gazette-v2
+    npm install
+    npm run dev
     ```
 
 ## Contribution
