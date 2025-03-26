@@ -20,7 +20,7 @@ export default defineConfig({
 				}
 			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/miki-tebe/negarit-gazette-v2',
 			},
 			sidebar: [
 				{
