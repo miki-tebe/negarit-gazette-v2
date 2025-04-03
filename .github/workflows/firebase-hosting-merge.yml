@@ -18,3 +18,5 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NEGARIT_GAZETTE }}
           channelId: live
           projectId: negarit-gazette
+        env:
+          FIREBASE_CLI_EXPERIMENTS: webframeworks
